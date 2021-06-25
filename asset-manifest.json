@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Google-keep-app/static/css/main.6ed91c3e.chunk.css",
+    "main.js": "/Google-keep-app/static/js/main.bc417860.chunk.js",
+    "main.js.map": "/Google-keep-app/static/js/main.bc417860.chunk.js.map",
+    "runtime-main.js": "/Google-keep-app/static/js/runtime-main.6261552d.js",
+    "runtime-main.js.map": "/Google-keep-app/static/js/runtime-main.6261552d.js.map",
+    "static/js/2.2475d87f.chunk.js": "/Google-keep-app/static/js/2.2475d87f.chunk.js",
+    "static/js/2.2475d87f.chunk.js.map": "/Google-keep-app/static/js/2.2475d87f.chunk.js.map",
+    "index.html": "/Google-keep-app/index.html",
+    "static/css/main.6ed91c3e.chunk.css.map": "/Google-keep-app/static/css/main.6ed91c3e.chunk.css.map",
+    "static/js/2.2475d87f.chunk.js.LICENSE.txt": "/Google-keep-app/static/js/2.2475d87f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6261552d.js",
+    "static/js/2.2475d87f.chunk.js",
+    "static/css/main.6ed91c3e.chunk.css",
+    "static/js/main.bc417860.chunk.js"
+  ]
+}

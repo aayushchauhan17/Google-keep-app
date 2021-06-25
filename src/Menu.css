@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+.menu-left {
+    display: flex;
+    flex-direction: column;
+    width: 35vh;
+    padding: 10px 0px;
+    font-family: 'PT Sans', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.menu-list {
+    display: flex;
+    flex-direction: row;
+    padding: 11px 30px;
+}
+
+.menu-list:hover {
+    background-color: rgb(228, 228, 228);
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.menu-list p {
+    margin: 0px 25px;
+    color: black;
+    font-size: 17px;
+}
